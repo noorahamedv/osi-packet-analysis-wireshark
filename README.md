@@ -1,12 +1,11 @@
 # OSI Packet Analysis using Wireshark
 
-This project explores deep packet inspection of network protocols using Wireshark, mapped to the OSI model. 
-The analysis covers InfiniBand, CIPSO, and SIP signaling with visual insights from I/O and flow graphs.
+This project explores deep packet inspection of network protocols using Wireshark, mapped to the OSI model. The analysis covers InfiniBand, CIPSO, and SIP signaling with visual insights from I/O and flow graphs.
 
 ## 📁 Files Included
-- `Assignment_1_OSI_Analysis.pdf`: Full report with detailed protocol breakdown
+- [`Assignment_1_OSI_Analysis.pdf`](report/Assignment_1_OSI_Analysis.pdf): Full report with detailed protocol breakdown
 - Wireshark visualizations: Protocol Hierarchy Stats, I/O Graphs, and Flowgraphs
-- Screenshots and diagrams from Dynamite.AI labs
+- Sample data captures in `data/` folder
 
 ## 🛠️ Tools & Technologies
 - Wireshark
@@ -43,5 +42,4 @@ The analysis covers InfiniBand, CIPSO, and SIP signaling with visual insights fr
 - [Wireshark Sample Captures](https://wiki.wireshark.org/SampleCaptures)
 - [OSI Model Overview](https://en.wikipedia.org/wiki/OSI_model)
 - [lab.dynamite.ai](https://lab.dynamite.ai/) - Visualization tool
-
 
